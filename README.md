@@ -1,6 +1,6 @@
 # Back End E-Commerce
 
-![Portfolio screenshot](Screenshot.JPEG)
+![Portfolio screenshot](Screenshot.jpeg)
 ## About Project
 This web application is a back end mockup for an e-commerce site. When you open one of the GET routes api/categories, api/products, or api/tags you'll be presented with a json file containg the data. in Insomnia Core you can use the same routes above to POST, PUT, and DELETE using json.
 
